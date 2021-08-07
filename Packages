@@ -4287,3 +4287,19 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.zxtouch
 Name: zxtouch 繁體中文化
+
+Package: com.axcvd.ABypass
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.ABypass_1.0.1_iphoneos-arm.deb
+Size: 3268
+MD5sum: 47d4d9afd4929cbac011fdb968bb1505
+SHA1: d1e27694e9efe69553269a724290ab4f584b728a
+SHA256: 928281dc45c347453461247c8c5e894822546076ecf4c6e65328059f8e6097b4
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ABypass
+Name: A-Bypass 繁體中文化
