@@ -3682,15 +3682,15 @@ Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BattSafePro
 Name: BattSafePro 繁體中文化
 
 Package: com.axcvd.MilkyWay3
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.axcvd.MilkyWay3_1.0.1_iphoneos-arm.deb
-Size: 1516
-MD5sum: 52ca9d1364e7b4ceb440950851af5f9f
-SHA1: 05c442edc27957d1371aafb6f45b11b2f705bc31
-SHA256: fc1753b2529cd20ef3eb126b4264ff6b104bc4e8771f76382e1391f8ff27e034
+Filename: ./debs/com.axcvd.MilkyWay3_1.0.2_iphoneos-arm.deb
+Size: 1886
+MD5sum: 55182f4d42df4bfc4be625290261250a
+SHA1: 1abd412329eda1b89f64e1853af7765bdcf46985
+SHA256: dd963a5146c495cc24bc3e905df69c3e32a17acd79314e361780b2157c8b1912
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
@@ -4303,3 +4303,35 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ABypass
 Name: A-Bypass 繁體中文化
+
+Package: com.axcvd.ShakeitOff
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.ShakeitOff_1.0.1_iphoneos-arm.deb
+Size: 2010
+MD5sum: 09c73f719b94d3f0a840aecfc88dacf0
+SHA1: 88cbb10f65c85e228e2a97d7635ba84e7c0530c5
+SHA256: a8e4954ca736ed909526dce47161bdaad2a988410d3aae73b4eec937a4260eb3
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ShakeitOff
+Name: ShakeitOff 繁體中文化
+
+Package: com.axcvd.Vide
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Vide_1.0.1_iphoneos-arm.deb
+Size: 2562
+MD5sum: c5a8ab664cafc52f7f5d678d9d642b6e
+SHA1: a743b832b1ee18fbd67de44013f939cd55560b23
+SHA256: fd188d9804b98ef20f387051a324125a998e46384fe65b42d7becf21a323809c
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Vide
+Name: Vide 繁體中文化
