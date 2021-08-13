@@ -4335,3 +4335,19 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Vide
 Name: Vide 繁體中文化
+
+Package: com.axcvd.Amelija
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Amelija_1.0.1_iphoneos-arm.deb
+Size: 2294
+MD5sum: 335b0f78a1c79adc3a1785f0d8ea0db7
+SHA1: 46b6a42cc81c5280d9f9b3c8a29cc70de00297b3
+SHA256: 8576a1845ffd62aa7e8395a14927eb469ccfd09fede863cdfa38636abbeb46a6
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Amelija
+Name: Amelija 繁體中文化
