@@ -4351,3 +4351,19 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Amelija
 Name: Amelija 繁體中文化
+
+Package: com.axcvd.Tako
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Tako_1.0.1_iphoneos-arm.deb
+Size: 2642
+MD5sum: 4DBA34658326C8936C4982D2A2AAE46C
+SHA1: 0EF7895279D8EAC3B372CE4E175C7779B2AD9487
+SHA256: CF2657419409242E20A3E92A1A0B23BEF60ACE4190D0E8DDF31EB6CDBC4E8786
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Tako
+Name: Tako 繁體中文化
