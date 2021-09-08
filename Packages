@@ -3650,15 +3650,15 @@ Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Laetus
 Name: Laetus 繁體中文化
 
 Package: com.axcvd.Crane
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.axcvd.Crane_1.0.1_iphoneos-arm.deb
-Size: 3500
-MD5sum: e5713137102b30e7eb0d811f3e8bd1cf
-SHA1: 83d55a95d7a430aeb1dc10b10fa7d86b4f1b0a87
-SHA256: 2376c70383cd4f59ab604abb7d14048325052b2550d7dd63c06b347bb4ef8395
+Filename: ./debs/com.axcvd.Crane_1.0.2_iphoneos-arm.deb
+Size: 8340
+MD5sum: C841BF75A0D47B55D7938EC34B48EF42
+SHA1: 2CBDABA73C8A01E8150D42BBA36E26784AAAD9FA
+SHA256: 1E47E3A1B860C89BEA31249C6ABF3E3050E8F16DF32030D684C3DA382390061A
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
