@@ -4367,3 +4367,20 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Tako
 Name: Tako 繁體中文化
+
+Package: com.axcvd.flyjbx1
+Name: FlyJB X
+Depends: mobilesubstrate
+Conflicts: com.axcvd.flyjb
+Architecture: iphoneos-arm
+Filename: ./debs/com.axcvd.flyjbx1_1.2.5_iphoneos-arm.deb
+Size: 766212
+MD5sum: 7B19B71B1EAE4AC9D8BF134797A3FCA4
+SHA1: 67B9071472D2EA5DB5FC8720F511AFE989BA6A06
+SHA256: 9CBB1F55BB8DDA6F3AA3C07DC03535A9DB6CBF1A1903BACCDC3B52D9C54E2713
+Description: 你可以隱藏越獄你的iDevice.這個是備份
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.flyjbx1
+Maintainer: 小謝 <vv741852v@gmail.com>
+Author: XsF1re
+Section: Tweaks
+Version: 1.2.5
