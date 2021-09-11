@@ -4384,3 +4384,19 @@ Maintainer: 小謝 <vv741852v@gmail.com>
 Author: XsF1re
 Section: Tweaks
 Version: 1.2.5
+
+Package: com.axcvd.BackupAZ4
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.BackupAZ4_1.0.1_iphoneos-arm.deb
+Size: 7334
+MD5sum: C5102B1907DC66F72383F9E3D1C34A61
+SHA1: 089126D1211D7A8A850C476FD21162541925A0E1
+SHA256: C855C99C5BF21CCC7248D562F7F4A9AD9035314815500BB3C0729B12E618C836
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BackupAZ4
+Name: BackupAZ4 繁體中文化
