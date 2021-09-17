@@ -4400,3 +4400,35 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BackupAZ4
 Name: BackupAZ4 繁體中文化
+
+Package: com.axcvd.Cucu
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.Cucu_1.0.1_iphoneos-arm.deb
+Size: 2246
+MD5sum: ACE9D4E89F87FEECD7886F4F921C7B80
+SHA1: 504721DF91171588907E00E5508708BC97B0A58F
+SHA256: 378D529668BD28FFDB2FCEAB051DB083FC8EE067687B998B2E6E97E412109F07
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Cucu
+Name: Cucu 繁體中文化
+
+Package: com.axcvd.PencilBanner
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.PencilBanner_1.0.1_iphoneos-arm.deb
+Size: 2544
+MD5sum: D12259AFEFC5CD2134BC2643F8C95DB2
+SHA1: A782AED698070886CC597BECD267A6699ACC7F6D
+SHA256: A299ADDA5BA4240E8EA9ACC2A663CCB40066D058E911FBD6755D3DDC904A3D5A
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.PencilBanner
+Name: PencilBanner 繁體中文化
