@@ -4432,3 +4432,19 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.PencilBanner
 Name: PencilBanner 繁體中文化
+
+Package: com.axcvd.AdvancedBrightnessSlider
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.AdvancedBrightnessSlider_1.0.1_iphoneos-arm.deb
+Size: 2738
+MD5sum: F540FBF36B4F3FB33C064D83D3479809
+SHA1: C3654C83FF1D7293E4E56D4B781FB707CF85C817
+SHA256: B5A064AFFB2FC73E1B1A65C22C4AF55B8C172A9B6B1A8922B612DF5B00548370
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AdvancedBrightnessSlider
+Name: AdvancedBrightnessSlider 繁體中文化
