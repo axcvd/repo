@@ -4418,15 +4418,15 @@ Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Cucu
 Name: Cucu 繁體中文化
 
 Package: com.axcvd.PencilBanner
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.axcvd.PencilBanner_1.0.1_iphoneos-arm.deb
-Size: 2544
-MD5sum: D12259AFEFC5CD2134BC2643F8C95DB2
-SHA1: A782AED698070886CC597BECD267A6699ACC7F6D
-SHA256: A299ADDA5BA4240E8EA9ACC2A663CCB40066D058E911FBD6755D3DDC904A3D5A
+Filename: ./debs/com.axcvd.PencilBanner_1.0.2_iphoneos-arm.deb
+Size: 2654
+MD5sum: 2A0122107971B020FFA65092E6C0993B
+SHA1: 76EDFE279859F349940361EDF5ABE0F8DDCEF609
+SHA256: DB27F55FBB0E1B7466FA4E04905CFBE771F0AC578ED4E2FA90B10299CB48FBF4
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
@@ -4448,3 +4448,19 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AdvancedBrightnessSlider
 Name: AdvancedBrightnessSlider 繁體中文化
+
+Package: com.axcvd.PlayTopia2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.PlayTopia2_1.0.1_iphoneos-arm.deb
+Size: 2492
+MD5sum: C70DB85C688F5A4916FC00BBF251ECA8
+SHA1: 5DEC7F6EFECD83CAB59AC20A893835DF1841ABCC
+SHA256: 91039E73F294A4BAFEA61431502B4FEB405BB234DDE06F50B334B381DCDAAD48
+Section: Localization
+Description: 使用前先裝主程式不然就沒有中文化了
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.PlayTopia2
+Name: PlayTopia2 繁體中文化
