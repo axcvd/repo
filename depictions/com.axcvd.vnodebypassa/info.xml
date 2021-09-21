@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>直接安裝不用依賴因為我加到裡面了,這個是unc0ver專用的不是的不要下載,出問題不要找我,我只是打包而已,加入CC模塊的啓用/停用vnodebypass作者level3tjg</description>
+		<description>直接安裝不用依賴因為我加到裡面了,這個是unc0ver專用的不是的不要下載,出問題不要找我,我只是打包而已,加入CC模塊的啓用/停用vnodebypass作者level3tjg 最新的 Pokémon go 版本的問題不是 vnodebypass。它沒有看到 vnodebypass。它檢測舊的 Kernbypass 文件。修復很簡單。如果有，請刪除 kernbypass。之後獲取 filza 並在根文件夾中搜索“Jp.akusio”，刪除顯示的所有內容。清空你的垃圾桶。Vnodebypass 和 Go 現在將再次完美運行。別客氣。享受</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
