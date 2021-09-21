@@ -4145,15 +4145,15 @@ Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ReScale2
 Name: Re:Scale 2 繁體中文化
 
 Package: com.axcvd.vnodebypassa
-Version: 0.2.6
+Version: 0.2.5
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.axcvd.vnodebypassa_0.2.6_iphoneos-arm.deb
-Size: 366384
-MD5sum: 5c36d60887c1c2983e0c55b8fb853a8d
-SHA1: 56eb30ec6e2c1a88e5d8e83f07cbe2f1259a86b3
-SHA256: 60f310c5409f19bcfd245983d768a8aa3bc8474593b914cfb3ca2e1a57cfba4e
+Filename: ./debs/com.axcvd.vnodebypassa_0.2.5_iphoneos-arm.deb
+Size: 366496
+MD5sum: 805B125BBDBA52455A5168C447881B8B
+SHA1: 4156D8CC856006A61B4C4D8BEA54CDA972A00C3A
+SHA256: 1E711E78DA7B949E7F1FB78F7C8A2C27DBEE7B3C4B17BEC470D2AA138CD6D0AC
 Section: Tweaks
 Description: 這個是unc0ver專用直接安裝不用依賴
 Author: XsF1re

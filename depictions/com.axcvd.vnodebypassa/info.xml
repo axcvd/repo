@@ -1,7 +1,7 @@
 <package>
 	<id>com.axcvd.vnodebypassa</id>
 	<name>這個是unc0ver專用直接安裝不用依賴</name>
-	<version>0.2.6</version>
+	<version>0.2.5</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>20.3</maxiOS>
