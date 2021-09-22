@@ -4448,3 +4448,19 @@ Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.PlayTopia2
 Name: PlayTopia2 繁體中文化
+
+Package: com.axcvd.vnodebypassa
+Version: 0.2.5
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.vnodebypassa_0.2.5_iphoneos-arm.deb
+Size: 366496
+MD5sum: 805B125BBDBA52455A5168C447881B8B
+SHA1: 4156D8CC856006A61B4C4D8BEA54CDA972A00C3A
+SHA256: 1E711E78DA7B949E7F1FB78F7C8A2C27DBEE7B3C4B17BEC470D2AA138CD6D0AC
+Section: Tweaks
+Description: 這個是unc0ver專用直接安裝不用依賴
+Author: XsF1re
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.vnodebypassa
+Name: vnodebypassa
