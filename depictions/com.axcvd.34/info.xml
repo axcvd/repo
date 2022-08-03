@@ -4,7 +4,7 @@
 	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>20.3</maxiOS>
+			<maxiOS>11.0</maxiOS>
 			<otherVersions>11.0</otherVersions>
 			<!--
 			對於其他版本，您可以放置不受支持或未經確認的版本
