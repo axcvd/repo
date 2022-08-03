@@ -48,7 +48,7 @@ Twitter - @TimonOlsthoorn
 // changed const to var for IE9/10 compatibity.
 var VERSION_CHECK_SUPPORTED = "&#x1f60a;支持您的iOS版本！&#x1f60a;";
 var VERSION_CHECK_NEEDS_UPGRADE = "至少需要 iOS %s &#x1f615;";
-var VERSION_CHECK_UNCONFIRMED = "中文化都支援只是懶得改支援改版本而已 iOS %s &#x1f601;";
+var VERSION_CHECK_UNCONFIRMED = "iOS %s &#x1f601;";
 var VERSION_CHECK_UNSUPPORTED = "僅與 iOS %s to %s &#x1f61e;";
 
 function ios_version_check(minIOS,maxIOS,otherIOS,callBack) {
