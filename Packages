@@ -48,3 +48,20 @@ Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
 Version: 1.0.1
+
+Package: com.axcvd.344
+Name: 鎖屏時間18個
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.344_1.0.1_iphoneos-arm.deb
+Size: 8258
+MD5sum: bb41c2a916f91a0dad714221f8918903
+SHA1: 2e81c8c511b62586de4c663f1613403d02d5e794
+SHA256: 76ffe621c926f5a988f0fe2c03e8358f04b393f8ae35ae62e3f1b509e11064b1
+Section: Localization
+Architecture: iphoneos-arm
+Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.344
+Maintainer: 小謝 <vv741852v@gmail.com>
+Author: 網路上找到的 <網路上找到的>
+Section: Fonts
+Version: 1.0.1
