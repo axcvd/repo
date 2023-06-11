@@ -48,3 +48,54 @@ Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
 Version: 1.0.1
+
+Package: com.axcvd.344
+Name: ios16鎖屏鏤空時間字體
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.344_1.0.1_iphoneos-arm.deb
+Size: 7004
+MD5sum: e3f6521156b3cfc9881fd10bdd261d7c
+SHA1: f26c9eaf89e2105b634c24521cc342c2b0e965f8
+SHA256: e2e8b90135080d2981bf083bd3e8eec9f8d230d83af4d60e2cc74feb7fa0559d
+Section: Localization
+Architecture: iphoneos-arm64
+Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.344
+Maintainer: 小謝 <vv741852v@gmail.com>
+Author: 網路上找到的 <網路上找到的>
+Section: Fonts
+Version: 1.0.1
+
+Package: com.axcvd.22
+Name: 鎖屏時間字體
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.22_1.0.1_iphoneos-arm.deb
+Size: 8576
+MD5sum: 9a061e9189323e17e98b824bdf31f7b0
+SHA1: 1ecba810bb94c1636be80d118f84a45977c103be
+SHA256: 14dd2994447fc24323f6a8633903fad3d4dd9a66b1283ceeb4c41571588f463d
+Section: Localization
+Architecture: iphoneos-arm64
+Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.22
+Maintainer: 小謝 <vv741852v@gmail.com>
+Author: 網路上找到的 <網路上找到的>
+Section: Fonts
+Version: 1.0.1
+
+Package: com.axcvd.11
+Name: 蘋方粗鎖屏時間字體
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.11_1.0.1_iphoneos-arm.deb
+Size: 79524
+MD5sum: 122032a468755650891ab8373c5c678a
+SHA1: 76c9e11b97addae8838b7806ea09c9cca0a0f98b
+SHA256: 7d1e567899a9fc553ab44c4491985498585abd71156b6b651d984292fb269331
+Section: Localization
+Architecture: iphoneos-arm64
+Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.11
+Maintainer: 小謝 <vv741852v@gmail.com>
+Author: 網路上找到的 <網路上找到的>
+Section: Fonts
+Version: 1.0.1
