@@ -48,20 +48,3 @@ Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
 Version: 1.0.1
-
-Package: com.axcvd.3
-Name: 注销快速进入桌面
-Depends: mobilesubstrate
-Filename: ./debs/com.axcvd.3_1.0.1_iphoneos-arm.deb
-Size: 956
-MD5sum: 2A7F3AE7AB59EDDDB18FD4E4B54ED9E8
-SHA1: C84B2392FB609B2707626B99740D4DB4D29EB636
-SHA256: 9689F2552AB1956EBAA98EE61332519D04CE4AEDB6046C500EC65A30D95F9023
-Section: Localization
-Architecture: iphoneos-arm64
-Description: 注销快速进入桌面
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.3
-Maintainer: 小謝 <vv741852v@gmail.com>
-Author: 網路上找到的 <網路上找到的>
-Section: Tweaks
-Version: 1.0.1
