@@ -65,3 +65,20 @@ Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
 Version: 1.0.1
+
+Package: com.axcvd.deb
+Name: Filza打包安裝解压腳本
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.deb_1.0.1_iphoneos-arm64.deb
+Size: 1396
+MD5sum: e124afffad8524e804f4f173b05c58a7
+SHA1: 418d191807a27fa575baa9b03f42495fe6b0fd41
+SHA256: a49bbfc1d01bcd3f17c71a0cbffe5f2e3fb67636564329bbdafc13aa37eebf70
+Section: Localization
+Architecture: iphoneos-arm64
+Description: Filza 直接 deb打包deb安装deb解压脚本
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.deb
+Maintainer: 小謝 <vv741852v@gmail.com>
+Author: 網路上找到的 <網路上找到的>
+Section: System
+Version: 1.0.1
