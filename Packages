@@ -82,3 +82,20 @@ Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: System
 Version: 1.0.1
+
+Package: com.axcvd.4
+Name: Network Exalt
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.4_1.0.1_iphoneos-arm64.deb
+Size: 6568
+MD5sum: 6a5070b9e2e7925e3c6e5b24767eaf2e
+SHA1: bc7dcca2006c0141f390b8bc6768d88fd0545ba8
+SHA256: 5df9e24bd3292640527148e5011b13ab6c6cf53fa4408bde0981a61f5b38868c
+Section: Localization
+Architecture: iphoneos-arm64
+Description: Network Exalt
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.4
+Maintainer: 小謝 <vv741852v@gmail.com>
+Author: 網路上找到的 <網路上找到的>
+Section: System
+Version: 1.0.1
