@@ -127,7 +127,80 @@
 			</fieldset>
 		</panel>
     </body>
+		<script defer src="https://ad.sitemaji.com/ysm_bingfeng.js"></script>
 
+		<script src="/clever_ads.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		if(document.getElementById('mAWfdNgjklsoHiCsftrj') || getCookie("i_knew")){
+		  //alert('Blocking Ads: No');
+		} else {
+		  notice_ad_block();
+		}
+
+
+		function notice_ad_block() {
+				var COOKIE_NAME = 'i_knew';
+
+				function newtag(n) {
+					return document.createElement(n);
+				}
+				function newtxt(n) {
+					return document.createTextNode(n);
+				}
+				var ad=true;
+
+				var main = newtag("div");
+				var box = newtag("div");
+
+				//main.style.background = "rgba(128, 128, 128, 0.8)";
+				//main.style.background = "rgb(128, 128, 128)";
+				main.style.position = "fixed";
+				main.style.left = 0;
+				main.style.top = 0;
+				main.style.width = "99.9%";
+				main.style.height = "100%";
+				main.style.zIndex = 999;
+
+				box.style.height = "200px";
+				box.style.width = "600px";
+				box.style.margin = "100px auto";
+				box.style.background = "#333";
+				box.style.color = "white";
+				box.style.padding = "15px";
+				box.style.borderRadius = "12px";
+				box.style.fontFamily = '"文泉驛微米黑", "微軟正黑體", "文泉驛正黑"';
+				box.style.boxShadow = "0 0 80px white";
+				box.style.paddingTop = "20px";
+
+				box.innerHTML =
+					'<h4 style="text-align: center;"><h8 style="font-size:24pt;" >AdBlock!!</h8></h4><hr />' +
+					'<h4 style="text-align: center;"><h8 style="font-size:12pt;">本站禁用Adblock，請把本站加到例外<br>本站点禁用Adblock，请将本站列入排除<br>Adblockを無効にしてください<br>Please don\'t block my ADs. Thanks!</h8></h4>';
+
+				//var button1 = newtag("button");
+				var button2 = newtag("button");
+
+				//button1.appendChild(newtxt("我知道了"));
+				button2.appendChild(newtxt("OK"));
+
+				//box.appendChild(button1);
+
+				box.appendChild(button2);
+
+				main.appendChild(box);
+				document.body.appendChild(main);
+
+				/*button1.onclick = function () {
+					document.cookie = COOKIE_NAME + "=true";
+					main.style.display = "none";
+				};*/
+
+				button2.onclick = function () {
+					document.cookie = COOKIE_NAME + "=true; max-age=360";
+					main.style.display = "none";
+
+				};
+			}
+		</script>
 		<script>var classid="10";var status="3";var meida = {mp3:"https://mp3.haoge500.com/hot/2005/11-01/72066.mp3"};</script>
 		<script src="https://myhkw.cn/player/js/jquery.min.js" type="text/javascript"></script>
 		<script src="https://myhkw.cn/api/player/demo" id="myhk" key="demo" skin="player" lr="l" m="1" au="1"></script>
