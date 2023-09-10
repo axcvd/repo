@@ -63,7 +63,7 @@ Description: 注销快速进入桌面
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.3
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
-Section: Fonts
+Section: System
 Version: 1.0.1
 
 Package: com.axcvd.deb
@@ -95,6 +95,23 @@ Section: Localization
 Architecture: iphoneos-arm64
 Description: Network Exalt
 Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.4
+Maintainer: 小謝 <vv741852v@gmail.com>
+Author: 網路上找到的 <網路上找到的>
+Section: System
+Version: 1.0.1
+
+Package: com.axcvd.5
+Name: 控制中心静音按钮
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.5_1.0.1_iphoneos-arm64.deb
+Size: 976
+MD5sum: 858bdaa48b5fc4c9b12c84a56bb0d4c9
+SHA1: 79cab7c6ea35068265e9ed46ac37e009cba87edf
+SHA256: e4309eff33e344a14d579bb229cd142564c63cc06e267665e30dbf0c1866db35
+Section: Localization
+Architecture: iphoneos-arm64
+Description: 控制中心静音按钮
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.5
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: System
