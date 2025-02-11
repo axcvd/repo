@@ -1,0 +1,236 @@
+Package: com.axcvd.trolllock
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Priority: optional
+Section: Tweaks
+Maintainer: Nathan.小谢修改
+Installed-Size: 428
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: ./debs/TrollLock.deb
+Size: 166344
+MD5sum: 2e28cd28d745f0da224a40e4a49c9607
+SHA1: 9964c7812d0083e890dc9d3065fec44bf281b631
+SHA256: 46889c6c8ba2103e325482097129ef321f7219340372ae4008157a630cb03630
+SHA512: 9d745bb55e6612f96bdc244776bb7262e84665bad83cb9aacc8d030f9ffe2b0ce84cbe653db873e6f3164f166c8bfc7e2f9aeb5d48a129a66b5e0bbf2985f09e
+Description: 将 faceID 字形变成巨怪脸的调整
+Name: TrollLock
+
+Package: com.axcvd.trolllock
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Priority: optional
+Section: Tweaks
+Maintainer: Nathan.小谢修改
+Installed-Size: 428
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: ./debs/TrollLock_Apple_Event_YangJiii.deb
+Size: 718364
+MD5sum: ee80973b3effbe507753382ab0680492
+SHA1: 76ba297064e099d62dffe1a46756c4d79fdab617
+SHA256: c9e7cace5f315c3dd71ef277baeaf891a751ac6ebf9f53cdea15a61fd6f83f47
+SHA512: 7357431b1ad43beceacfd9c6faa29a8a2b3f9f186c8ea92b17da222873a83d8cf991166ae774fd48fa20ce71276ab0287ff28e407f4a6e89f0e41cbb456be71e
+Description: 将 faceID 字形变成巨怪脸的调整
+Name: TrollLock
+
+Package: com.axcvd.trolllock
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Priority: optional
+Section: Tweaks
+Maintainer: Nathan.小谢修改
+Installed-Size: 428
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: ./debs/TrollLock_Astronaut_Color_YangJiii.deb
+Size: 297988
+MD5sum: 27039244b335169a1f4b5f882dfd9b0d
+SHA1: f517e21d797fd4e70d51f8fd9817cbb82dba955d
+SHA256: ed4eeab0001a78268a73561867f809b41813b874244428d4d50b044db912becd
+SHA512: 6c991c66d7424c554fe4c696d28cb96b9d07261723d1d4eb1b665ad96b324db92118f49fb478cd226b48b4963afbfb4fcac08dfe279310e87e113b2d3a9cf404
+Description: 将 faceID 字形变成巨怪脸的调整
+Name: TrollLock
+
+Package: com.axcvd.trolllock
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Priority: optional
+Section: Tweaks
+Maintainer: Nathan.小谢修改
+Installed-Size: 428
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: ./debs/TrollLock_Astronaut_White_YangJiii.deb
+Size: 548988
+MD5sum: 521ac1189892ba302b11ea8d95665a24
+SHA1: 6e1943ac685587ea62b9ea0da72ba59060c534bd
+SHA256: fb44b1714ec71bdb100c02cf04546d3715e0dcabdd28a2599f629acefc2ce77c
+SHA512: d6d6eae1c861801429a75f17fa969333c618cee3b7e2cca98701c8c1a5ee1010cba9cf4515a6287f04665e35c90ae4fb0ddeb6236d971719f36a83c17a71a1b5
+Description: 将 faceID 字形变成巨怪脸的调整
+Name: TrollLock
+
+Package: com.axcvd.trolllock
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Priority: optional
+Section: Tweaks
+Maintainer: Nathan.小谢修改
+Installed-Size: 428
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: ./debs/TrollLock_BoxCorgi_YangJiii.deb
+Size: 310904
+MD5sum: 4fd85669da08bcac57ab5ffe5dd499ee
+SHA1: 55f313c2759f994bb0861f2286cd8627b519a629
+SHA256: 9e11e7d2c99d6cc4ea7c4e7431eb04671a294d996096fb4b5c92cb82022e7859
+SHA512: 5aec86e11307425ce8fe90ade02e094c62e412d651637937e91cbecbebcdcee0185cbb57627faf08fda2252e40d92bc8fff8c8f13d64bd97b98473affc396229
+Description: 将 faceID 字形变成巨怪脸的调整
+Name: TrollLock
+
+Package: com.axcvd.trolllock
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Priority: optional
+Section: Tweaks
+Maintainer: Nathan.小谢修改
+Installed-Size: 428
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: ./debs/TrollLock_BoxFunny_YangJiii.deb
+Size: 91536
+MD5sum: 828acceed0a10fc910fc11372c02f9df
+SHA1: f49bedef601ef52774de640a6d0ef5b418749fe8
+SHA256: 93ab668c6ec6637f434e784e5c5f1359a47789d09bf796a8b0dad43f44e2f32e
+SHA512: 88af92bb7ecc7e7116c784de387336c264ba5ecea1e3de5120842d762b4d03262998cf9ae461309988fb1234b6b343ed1cc84fdec6c2e3fe1f8ddff84fbf2c37
+Description: 将 faceID 字形变成巨怪脸的调整
+Name: TrollLock
+
+Package: com.axcvd.trolllock
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Priority: optional
+Section: Tweaks
+Maintainer: Nathan.小谢修改
+Installed-Size: 428
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: ./debs/TrollLock_BoxLock_YangJiii.deb
+Size: 55156
+MD5sum: 84b29d7977f8174fccddfc27b03cfd82
+SHA1: 660c816bec2f95951f8eb5772f72f8c0e88caf73
+SHA256: e8a0e12eed397afa4f3130c27c1af7323891de6bbaee1c2f8d7c02897fb54f10
+SHA512: a9935b2a31acaf2eb48c95f41a915efb58df307a80868839a44eb88f45d32dc2bcbd705d4c59c408bfc5725d6a240263b79fc363756991e28d36d8f1e902697e
+Description: 将 faceID 字形变成巨怪脸的调整
+Name: TrollLock
+
+Package: com.axcvd.1
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Themes
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.1_1.0.1_iphoneos-arm.deb
+Size: 107178
+MD5sum: 7c88552fbc32bdc9cc478dd4df194db5
+SHA1: fc3b59df43f81cb4061b4b7228e20d2667e11b50
+SHA256: 5865cb92a4893026a7130a248394a76b03108329a7440282b28a076618d6317e
+SHA512: 28e27b63ca646f88959021156d41202179b236ea236ba5d1984b37018746106c8d56d05486c708e326b352d109226b72f2fe84b1e7eda9b78a6929b7ff8ab8be
+Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
+Name: 蘋方粗鎖屏時間字體
+Author: 網路上找到的 <網路上找到的>
+
+Package: com.axcvd.2
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Themes
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.2_1.0.1_iphoneos-arm.deb
+Size: 9944
+MD5sum: a3e0feadcbe079a2d2e3424a24d9dfb3
+SHA1: d90594b4c8252341fe8584bb950004c26ad680ee
+SHA256: 5e00ea306ccc88adbf08aa001b172163b02d2c85a969935a49ac4d0e047f0724
+SHA512: 790b5c80159831fba9ad89a32b003f7225e24fe0b6f75d36cbd131d7cddf14bef33a70e72583cc0f34e5f69bc8632eb02aff93c80e7dde043f2fa40e069f58da
+Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
+Name: 鎖屏時間字體
+Author: 網路上找到的 <網路上找到的>
+
+Package: com.axcvd.34
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Fonts
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.34_1.0.1_iphoneos-arm.deb
+Size: 8258
+MD5sum: 1989cd3543a36e6128a36d28ddcd51fd
+SHA1: c6ffee5cb544bba893368784728a2fb2da146913
+SHA256: 5b1f1bb001b511afdfc9f09d648e9442b4d05d2d7377ab5ccac5e113e408baa5
+SHA512: 819832fa16ea8894d373247418140fe24b3a66c3acd986097d3d823db358e746e3d69075dfb89ec0ea92b0bb729c48a04f1d6429690f641c101583742ed93574
+Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
+Name: ios16鎖屏鏤空時間字體
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.34
+Author: 網路上找到的 <網路上找到的>
+
+Package: com.axcvd.3
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.3_1.0.1_iphoneos-arm64.deb
+Size: 956
+MD5sum: 2a7f3ae7ab59edddb18fd4e4b54ed9e8
+SHA1: c84b2392fb609b2707626b99740d4db4d29eb636
+SHA256: 9689f2552ab1956ebaa98ee61332519d04ce4aedb6046c500ec65a30d95f9023
+SHA512: 813a76f94caa818a57567d0d4f6cfed794efac143749fcdb826fd3786353f2f862e523ffc0ce3ffc7a9b9d0edb94ac3bfacc869da198e3b61397a3995cf94e5e
+Description: 注销快速进入桌面
+Name: 注销快速进入桌面
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.3
+Author: 网路上找到的 <网路上找到的>
+
+Package: com.axcvd.4
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: System
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.4_1.0.1_iphoneos-arm64.deb
+Size: 6568
+MD5sum: 6a5070b9e2e7925e3c6e5b24767eaf2e
+SHA1: bc7dcca2006c0141f390b8bc6768d88fd0545ba8
+SHA256: 5df9e24bd3292640527148e5011b13ab6c6cf53fa4408bde0981a61f5b38868c
+SHA512: 9718df5993d58ec29425f741a35c0ff643c5dc7a65f1a6518c4b5f63edf40fec59ea8a288d27530b5b9a2d3e3d48978c00bd5ddcbb6ab232efe75f249ba0f888
+Description: Network Exalt
+Name: Network Exalt
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.4
+Author: 网路上找到的 <网路上找到的>
+
+Package: com.axcvd.5
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.5_1.0.1_iphoneos-arm64.deb
+Size: 976
+MD5sum: 858bdaa48b5fc4c9b12c84a56bb0d4c9
+SHA1: 79cab7c6ea35068265e9ed46ac37e009cba87edf
+SHA256: e4309eff33e344a14d579bb229cd142564c63cc06e267665e30dbf0c1866db35
+SHA512: 6514ce90ecbb9c70de2e2dccb705e78ff6a501d5d8ca8c9852b7de855b4c27523526e998ee5a19e985262237ff52a48ef33cdb02bddbe134378ff39da7a5c462
+Description: 控制中心静音按钮
+Name: 控制中心静音按钮
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.5
+Author: 网路上找到的 <网路上找到的>
+
+Package: com.axcvd.deb
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: System
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.axcvd.deb_1.0.1_iphoneos-arm64.deb
+Size: 1396
+MD5sum: e124afffad8524e804f4f173b05c58a7
+SHA1: 418d191807a27fa575baa9b03f42495fe6b0fd41
+SHA256: a49bbfc1d01bcd3f17c71a0cbffe5f2e3fb67636564329bbdafc13aa37eebf70
+SHA512: a533156ea02f7a2a82a6ecb342af4b73244525d20be193bc2014275a94309546453981acb462f512ef72731d1b78286edc58de45002aac52e773e0221468fae0
+Description: Filza 直接 deb打包deb安装deb解压脚本
+Name: Filza打包安裝解压腳本
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.deb
+Author: 网路上找到的 <网路上找到的>
+
